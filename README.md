@@ -1,2 +1,0 @@
-# Start-Page
-The GUI
