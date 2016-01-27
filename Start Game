@@ -1,0 +1,8 @@
+def startgame():
+    raw_input("Hello! Welcome to our game. If you would like to play type Start game, if not type Exit. Happy gaming.")
+    if begin == "Start game":
+        start()
+    elif begin == "start game":
+        start()
+    else:
+        print("Fine then, don't appreciate artwork!")
